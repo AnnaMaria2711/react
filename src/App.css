@@ -1,0 +1,33 @@
+
+
+ h1{
+   color: black;
+   font-family: 'Amasis MT Pro', sans-serif;
+   text-align: center;
+   font-size: 30px;
+
+ }
+body{
+  background-color: #e0e4e4;
+  background-image: url("https://www.pikpng.com/pngl/b/189-1894408_leaves-tower-estate-wines-transparent-white-leaves-png.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+ .profile{
+     margin-top: 10px;
+     place-self: center ;
+     color: #242424;
+     display: flex;
+     justify-content: center;
+     width: 100vw;
+ }
+
+ .blog{
+     display: flex;
+     justify-content: center;
+    width: 100vw;
+ }
